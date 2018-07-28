@@ -9,6 +9,12 @@
 - [RHB Group](https://www.rhbgroup.com/)
 - [Conduent HR Surveys](https://surveys.hrservices.conduent.com/)
 
+### My development starter kit
+
+- [Front-end web development AMP boilerplate](https://github.com/claudchan/amp-boilerplate-gulp-sass-nunjucks)
+- [Front-end web development Bootstrap 4 starter](https://github.com/claudchan/FE-WD-Bootstrap-4-Starter-Gulp-Sass-Nunjucks)
+- [Front-end web development Bootstrap 3 starter](https://github.com/claudchan/FE-WD-Bootstrap-3-Starter-Gulp-Sass-Nunjucks)
+
 ### My recent accomplishments
 
 - [Angular 4 (formerly Angular 2) - The Complete Guide](https://www.udemy.com/certificate/UC-P03LPWJK/)
