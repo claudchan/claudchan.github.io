@@ -1,4 +1,4 @@
-# claudchan.github.io
+# [claudchan.github.io](https://claudchan.github.io/)
 
 ### My recent projects
 
