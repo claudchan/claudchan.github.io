@@ -26,4 +26,6 @@
 
 ### Past development projects
 
+- [Oxford Fajar](http://www.oxfordfajar.com.my/)
+- [Intouchs Concept](http://www.intouchs.com.my/)
 - [Commsolar (WordPress)](http://www.commsolar.com.au/)
