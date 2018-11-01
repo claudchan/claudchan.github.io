@@ -2,10 +2,11 @@
 
 ### Recent development projects
 
-- [Salesworks](http://salesworks.asia/)
-- [Futurise](http://futurise.com.my/)
+- [Salesworks](https://mirum-salesworks.netlify.com/)
+- [Futurise](https://mirum-futurise.netlify.com/)
 - [CIMB Bank - Octo Mobile App](https://mirum-octo-amp.netlify.com/)
 - [Alliance Bank -BizSmart](https://mirum-alliance-bizsmart-fe-staging.netlify.com/_sitemap.html)
+- [Conduent HR Surveys](https://art-and-dalvik-conduent-hr-surveys.netlify.com/)
 - [RHB Group](https://www.rhbgroup.com/)
 
 ### HTML boilerplate
@@ -29,3 +30,4 @@
 - [Oxford Fajar](http://www.oxfordfajar.com.my/)
 - [Intouchs Concept](http://www.intouchs.com.my/)
 - [Commsolar (WordPress)](http://www.commsolar.com.au/)
+- [Malaysian Motorcycle Getaways](http://www.ridemalaysia.com.my/)
