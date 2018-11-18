@@ -12,6 +12,13 @@
 
 - [Conduent HR Surveys](https://art-and-dalvik-conduent-hr-surveys.netlify.com/)
 - [MAS Enrich (AngularJS)](https://art-and-dalvik-mas-enrich.netlify.com/)
+- [DiGi - MyDigi Business](https://art-and-dalvik-mydigi-business.netlify.com/)
+- [BenefitWallet](https://mybenefitwallet.com/)
+- [Centouch](https://art-and-dalvik-centouch.netlify.com/)
+- [Bluecube](https://art-and-dalvik-bluecube-online.netlify.com/)
+- [The Coffee Bean & Tea Leaf](https://art-and-dalvik-cbtl.netlify.com/)
+- [Inside Out - Quiz](https://art-and-dalvik-aod-insideoutquiz.netlify.com/)
+- [Guocera](http://www.guocera.com.my/)
 - [Celcom](https://art-and-dalvik-celcom-2013.netlify.com/)
 - [Oxford Fajar](http://www.oxfordfajar.com.my/)
 - [Intouchs Concept](http://www.intouchs.com.my/)
