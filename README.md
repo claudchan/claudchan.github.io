@@ -2,7 +2,7 @@
 
 ### Recent projects
 
-- [Salesworks](https://mirum-salesworks.netlify.com/) | [Supportworks](https://mirum-supportworks.netlify.com/)
+- [Salesworks](https://mirum-salesworks.netlify.com/) / [Supportworks](https://mirum-supportworks.netlify.com/)
 - [Futurise](https://mirum-futurise.netlify.com/)
 - [CIMB Bank - Octo Mobile App (AMP)](https://mirum-octo-amp.netlify.com/)
 - [Alliance Bank - BizSmart](https://mirum-alliance-bizsmart-fe-staging.netlify.com/_sitemap.html)
