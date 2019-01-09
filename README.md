@@ -44,3 +44,4 @@
 - [Angular 4 (formerly Angular 2) - The Complete Guide](https://www.udemy.com/certificate/UC-P03LPWJK/)
 - [Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)](https://www.udemy.com/certificate/UC-A41FTNMH/)
 - [The Complete Fullstack Web Developer Course](https://www.udemy.com/certificate/UC-0LIGGWVA/)
+
