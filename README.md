@@ -6,7 +6,6 @@
 - [Futurise](https://mirum-futurise.netlify.com/)
 - [CIMB Bank - Octo Mobile App (AMP)](https://mirum-octo-amp.netlify.com/)
 - [Alliance Bank - BizSmart](https://mirum-alliance-bizsmart-fe-staging.netlify.com/_sitemap.html)
-- [RHB Group](https://www.rhbgroup.com/)
 
 ### Past projects
 
@@ -21,6 +20,7 @@
 - [The Coffee Bean & Tea Leaf](https://art-and-dalvik-cbtl.netlify.com/)
 - [Inside Out - Quiz](https://art-and-dalvik-aod-insideoutquiz.netlify.com/)
 - [Moodvies](https://art-and-dalvik-aod-moodvies.netlify.com/)
+- [RHB Group](https://www.rhbgroup.com/)
 - [Guocera](http://www.guocera.com.my/)
 - [Celcom](https://art-and-dalvik-celcom-2013.netlify.com/)
 - [Oxford Fajar](http://www.oxfordfajar.com.my/)
