@@ -1,4 +1,7 @@
-# [claudchan.github.io](https://claudchan.github.io/)
+# claudchan.github.io
+Yes, my site is simple on purpose. Minimalist desire for only what’s needed.
+
+'Write less do more' and 'Back to Basics', words that motivate and inspire me.
 
 ### Recent projects
 
