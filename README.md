@@ -2,7 +2,7 @@
 Yes, my site is simple on purpose. Minimalist desire for only what’s needed.
 
 ### About me
-Hi, I am Coder and Frontend Developer specializing in Web technologies.
+Hi, I am a front-end developer, specializing in Web technologies.
 
 **_'Write less do more'_** and **_'Back to Basics'_**, words that inspire and motivate me.
 
