@@ -3,6 +3,7 @@ Yes, my site is simple on purpose. Minimalist desire for only what’s needed.
 
 ### About me
 I am coder and front-end developer, specializing in Web technologies.
+There are no 'unicorn' developers.
 
 ### Recent projects
 
