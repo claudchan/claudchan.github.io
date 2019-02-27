@@ -34,18 +34,19 @@ I am coder and front-end developer, specializing in Web technologies.
 
 ### HTML boilerplate
 
-- [Front-end web development UIkit starter](https://github.com/claudchan/FE-WD-UIkit-Starter-Gulp-Sass-Nunjucks)
 - [Front-end web development AMP boilerplate](https://github.com/claudchan/amp-boilerplate-gulp-sass-nunjucks)
 - [Front-end web development Bootstrap 3 starter](https://github.com/claudchan/FE-WD-Bootstrap-3-Starter-Gulp-Sass-Nunjucks)
 - [Front-end web development Bootstrap 4 starter](https://github.com/claudchan/FE-WD-Bootstrap-4-Starter-Gulp-Sass-Nunjucks)
+- [Front-end web development UIkit starter](https://github.com/claudchan/FE-WD-UIkit-Starter-Gulp-Sass-Nunjucks)
 
 ### jQuery plugin
 
 - [Responsive Dynamic-Height Sticky Footer](https://github.com/claudchan/jQuery.stickyFooter)
 
-### Accomplishments
+### Certificates
 
 - [Angular 4 (formerly Angular 2) - The Complete Guide](https://www.udemy.com/certificate/UC-P03LPWJK/)
 - [Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)](https://www.udemy.com/certificate/UC-A41FTNMH/)
 - [The Complete Fullstack Web Developer Course](https://www.udemy.com/certificate/UC-0LIGGWVA/)
+- [Become a WordPress Developer: Unlocking Power With Code](https://www.udemy.com/certificate/UC-NW3O40C5/)
 
