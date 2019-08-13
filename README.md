@@ -11,10 +11,10 @@ I am coder and front-end developer, specializing in Web technologies.
 
 ### Past projects
 
-- [Salesworks](https://mirum-salesworks.netlify.com/) / [Supportworks](https://mirum-supportworks.netlify.com/)
-- [Futurise](https://mirum-futurise.netlify.com/)
+- [Salesworks](https://art-and-dalvik-salesworks.netlify.com/) / [Supportworks](https://art-and-dalvik-supportworks.netlify.com/)
+- [Futurise](https://art-and-dalvik-futurise.netlify.com/)
 - [CIMB Bank - Octo Mobile App (AMP)](https://art-and-dalvik-cimb-octo-mobile-app.netlify.com/)
-- [Alliance Bank - BizSmart](https://mirum-alliance-bizsmart-fe-staging.netlify.com/_sitemap.html)
+- [Alliance Bank - BizSmart](https://art-and-dalvik-alliance-bizsmart.netlify.com/_sitemap.html)
 - [Conduent HR Surveys](https://art-and-dalvik-conduent-hr-surveys.netlify.com/)
 - [BenefitWallet](https://art-and-dalvik-benefitwallet-premember.netlify.com/)
 - [BenefitWallet - Participant Portal](https://art-and-dalvik-benefitwallet-participant-portal.netlify.com/)
