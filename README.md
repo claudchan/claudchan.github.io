@@ -15,10 +15,6 @@ I am coder and front-end developer, specializing in Web technologies.
 - [Futurise](https://art-and-dalvik-futurise.netlify.com/)
 - [CIMB Bank - Octo Mobile App (AMP)](https://art-and-dalvik-cimb-octo-mobile-app.netlify.com/)
 - [Alliance Bank - BizSmart](https://art-and-dalvik-alliance-bizsmart.netlify.com/_sitemap.html)
-- [Conduent HR Surveys](https://art-and-dalvik-conduent-hr-surveys.netlify.com/)
-- [BenefitWallet](https://art-and-dalvik-benefitwallet-premember.netlify.com/)
-- [BenefitWallet - Participant Portal](https://art-and-dalvik-benefitwallet-participant-portal.netlify.com/)
-- [BenefitWallet - Employer Portal](https://art-and-dalvik-benefitwallet-employer-portal.netlify.com/)
 
 ### HTML boilerplate
 
