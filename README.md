@@ -11,7 +11,7 @@ I am coder and front-end developer, specializing in Web technologies.
 
 ### Past projects
 
-- [Salesworks](https://art-and-dalvik-salesworks.netlify.app/) / [Supportworks](https://art-and-dalvik-supportworks.netlify.com/)
+- [Salesworks](https://art-and-dalvik-salesworks.netlify.app/) / [Supportworks](https://art-and-dalvik-supportworks.netlify.app/)
 - [Futurise](https://art-and-dalvik-futurise.netlify.app/)
 - [CIMB Bank - Octo Mobile App (AMP)](https://art-and-dalvik-cimb-octo-mobile-app.netlify.app/)
 - [Alliance Bank - BizSmart](https://art-and-dalvik-alliance-bizsmart.netlify.app/_sitemap.html)
